@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Github User Finder</string>
+    <string name="search_github_user">Search Github Users</string>
+    <string name="error_no_internet_connection_message">No Internet Connection</string>
+    <string name="error_cant_get_information">Can\'t get the information, please try again.</string>
+    <string name="error_data_not_found">User not Found</string>
+    <string name="error_request_limit">You\'ve exceeded the request limit, please try again later.</string>
+    <string name="invalid_keyword">The keyword you entered is invalid</string>
+    <string name="welcome_greeting" translatable="false">Welcome to My Github User Finder</string>
+    <string name="retry">Retry</string>
+    <string name="search">Search</string>
+</resources>

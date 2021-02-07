@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_github_user">Cari Pengguna Github</string>
+    <string name="error_no_internet_connection_message">Tidak Ada Koneksi Internet</string>
+    <string name="error_cant_get_information">Gagal mendapatkan informasi, silakan coba lagi.</string>
+    <string name="error_data_not_found">User tidak ditemukan</string>
+    <string name="error_request_limit">Kamu telah melampaui batas permintaan, silakan coba lagi nanti.</string>
+    <string name="invalid_keyword">Kata kunci yang Anda masukkan tidak valid</string>
+    <string name="retry">Ulangi</string>
+    <string name="search">Cari</string>
+</resources>
